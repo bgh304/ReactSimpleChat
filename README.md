@@ -1,5 +1,5 @@
 # Simple Chat
-This is a simple fullstack chat app running in local environment. It's a modified version of [@ksekwamote]'s (https://github.com/ksekwamote) [simple_chat_app] (https://github.com/ksekwamote/simple_chat_app). Changes I made were changing database from Firebase to MySQL and building my own site layout.
+This is a simple fullstack chat app running in local environment. It's a modified version of [@ksekwamote](https://github.com/ksekwamote)'s [simple_chat_app](https://github.com/ksekwamote/simple_chat_app). Changes I made were changing database from Firebase to MySQL and building my own site layout.
 
 ### Technologies used
 - React
@@ -23,4 +23,4 @@ CREATE TABLE users (
 ```
 
 ### Authors
-Antti Salonen [@bgh204](https://github.com/bgh304)
+Antti Salonen [@bgh304](https://github.com/bgh304)
