@@ -36,7 +36,7 @@ const db = mysql.createConnection({
   // Set your MySQL login info
   user: 'root',
   host: 'localhost',
-  password: 'salasana', // write your password here
+  password: '', // write your password here
   database: 'reactsimplechatdb'
 })
 
